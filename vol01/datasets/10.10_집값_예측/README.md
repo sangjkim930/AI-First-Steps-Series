@@ -7,7 +7,7 @@
 
 이번 실습에서는 Kaggle의 **House Prices - Advanced Regression Techniques** 대회에서 제공하는 데이터를 사용합니다.
 
-대회 데이터는 이 GitHub 저장소에서 직접 제공하지 않습니다. 아래 Kaggle 대회 페이지에 접속하여 **[Join Competition]**을 클릭하고 대회 규칙에 동의한 후, **[Data]** 탭에서 직접 다운로드하여 사용합니다.
+대회 데이터는 이 GitHub 저장소에서 직접 제공하지 않습니다. 아래 Kaggle 대회 페이지에 접속하여 [Join Competition]을 클릭하고 대회 규칙에 동의한 후, **[Data]** 탭에서 직접 다운로드하여 사용합니다.
 
 * **데이터셋:** House Prices - Advanced Regression Techniques
 * **출처:** Kaggle Competition
