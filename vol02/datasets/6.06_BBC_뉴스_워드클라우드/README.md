@@ -18,4 +18,4 @@ BBC 뉴스 데이터셋은 별도의 파일을 다운로드하지 않고 Orange�
 
 별도의 데이터 파일은 제공하지 않습니다. Orange에서 BBC 뉴스 데이터셋을 직접 불러와 실습합니다.
 
-※ 실습에는 Orange의 **Text Mining 애드온**이 필요합니다. [Text Mining] 관련 위젯이 보이지 않는 경우에는 교재의 부록 **「Orange Text Mining 애드온 설치와 문제 해결」**을 참고하세요.
+※ 실습에는 Orange의 **Text Mining 애드온**이 필요합니다. [Text Mining] 관련 위젯이 보이지 않는 경우에는 교재의 부록 **「Orange Text Mining 애드온 설치와 문제 해결」** 을 참고하세요.
