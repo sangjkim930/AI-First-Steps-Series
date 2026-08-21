@@ -21,4 +21,4 @@
 
 * `sms_spam.xlsx` — 5,572건의 SMS 메시지와 `spam`/`ham` 구분 정보를 담은 텍스트 마이닝 실습 데이터
 
-※ Orange에서 [Text Mining] 관련 위젯이 보이지 않는 경우에는 교재의 **부록 A1 「Orange Text Mining 애드온 설치와 문제 해결」**을 참고하세요.
+※ Orange에서 [Text Mining] 관련 위젯이 보이지 않는 경우에는 교재의 **부록 A1 「Orange Text Mining 애드온 설치와 문제 해결」** 을 참고하세요.
