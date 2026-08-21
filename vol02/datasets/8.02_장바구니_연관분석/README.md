@@ -18,9 +18,9 @@
 
 ## 제공 파일
 
-* `groceries_long.csv` — `TransactionID`와 `Item` 두 열로 구성된 원시 거래 형태의 데이터
-* `groceries_onehot.csv` — Orange에서 연관분석을 바로 수행할 수 있도록 거래별 품목을 열로 변환한 데이터
+- `groceries_long.csv` — `TransactionID`와 `Item` 두 열로 구성된 원시 거래 형태의 데이터
+- `groceries_onehot.xlsx` — Orange에서 연관분석을 바로 수행할 수 있도록 거래별 품목을 열로 변환한 데이터
 
-`groceries_onehot.csv`에서는 해당 거래에서 구매한 품목을 `1`로 표시하고, 구매하지 않은 품목은 빈칸으로 두었습니다. Orange의 [File] 위젯에서 불러온 뒤 `TransactionID`의 Role을 **Meta**로 변경하여 사용합니다.
+`groceries_onehot.xlsx`에서는 해당 거래에서 구매한 품목을 `1`로 표시하고, 구매하지 않은 품목은 빈칸으로 두었습니다. Orange의 [File] 위젯에서 불러온 뒤 `TransactionID`의 Role을 **Meta**로 변경하여 사용합니다.
 
 ※ `groceries_long.csv`는 원시 거래 데이터를 연관분석용 형태로 직접 변환하는 추가 실습에 사용됩니다.
