@@ -24,4 +24,4 @@
 
 원본 데이터가 필요한 경우 위의 Kaggle 페이지에서 `7817_1.csv` 파일을 직접 다운로드할 수 있습니다.
 
-※ Orange에서 [Text Mining] 관련 위젯이 보이지 않는 경우에는 교재의 **부록 A1 「Orange Text Mining 애드온 설치와 문제 해결」**을 참고하세요.
+※ Orange에서 [Text Mining] 관련 위젯이 보이지 않는 경우에는 교재의 **부록 A1 「Orange Text Mining 애드온 설치와 문제 해결」** 을 참고하세요.
