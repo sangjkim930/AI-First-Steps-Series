@@ -20,19 +20,17 @@
 
 ## 제공 파일
 
-* `online_retail_ii_preprocessing.py` — Online Retail II 원본 데이터에서 실습에 필요한 거래를 선별하고 정제하기 위한 Python 전처리 코드
-* `online_retail_ii_uk_2011_11_transactions.csv` — 원본 데이터에서 2011년 11월 영국 거래를 선택하고, 취소 거래와 분석에 적합하지 않은 기록을 제거한 전처리 데이터
-* `online_retail_ii_uk_2011_11_onehot.xlsx` — 전처리된 데이터를 거래별 상품 형태로 변환하여 Orange에서 연관분석을 바로 수행할 수 있도록 구성한 데이터
+- `online_retail_ii_preprocessing.py` — Online Retail II 원본 데이터를 정제하고, 2011년 11월 영국 거래를 선별하여 연관분석에 사용할 수 있는 형태로 변환하는 Python 코드
+- `online_retail_ii_uk_2011_11.xlsx` — 위 Python 전처리 과정을 미리 적용하여, Orange에서 이후 연관분석 실습을 바로 진행할 수 있도록 구성한 데이터
 
-## 실습 방법
+## 원본 데이터
 
-실습은 다음과 같은 방법으로 진행할 수 있습니다.
+실습의 원본 데이터는 UCI Machine Learning Repository의 **Online Retail II** 데이터셋입니다.
 
-1. **전처리 과정부터 직접 실습하기**
-   UCI Machine Learning Repository에서 Online Retail II 원본 데이터를 내려받은 뒤, `online_retail_ii_preprocessing.py`의 코드를 Orange의 [Python Script] 위젯에서 실행합니다.
+- **원본 파일:** `online_retail_II.xlsx`
+- **UCI 주소:** https://doi.org/10.24432/C5CG6D
+- **라이선스:** CC BY 4.0
 
-2. **전처리된 데이터부터 시작하기**
-   `online_retail_ii_uk_2011_11_transactions.csv`를 이용하여 전처리 이후 단계부터 실습합니다.
+원본 파일은 용량이 크기 때문에 이 GitHub 저장소에서는 직접 제공하지 않습니다. UCI에서 원본 파일을 내려받아 Orange의 [File] 위젯으로 불러온 뒤, `online_retail_ii_preprocessing.py`의 코드를 [Python Script] 위젯에서 실행하여 전처리 과정을 직접 실습할 수 있습니다.
 
-3. **연관분석부터 바로 시작하기**
-   `online_retail_ii_uk_2011_11_onehot.xlsx`를 [File] 위젯으로 불러와 [Frequent Itemsets]와 [Association Rules]를 이용한 연관분석을 바로 진행합니다.
+Python 전처리 과정을 생략하려면 이 폴더에서 제공하는 `online_retail_ii_uk_2011_11.xlsx` 파일을 사용하면 됩니다.
